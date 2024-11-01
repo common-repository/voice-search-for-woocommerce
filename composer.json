@@ -1,0 +1,16 @@
+{
+  "name": "speak2web/voice-search-for-woocommerce",
+  "description": "Allows user to use voice input to perform a product search on WooCommerce WP pages.",
+  "version": "2.1.0",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "mspanwa2",
+      "email": "support@speak2web.atlassian.net ",
+      "homepage": "https://speak2web.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {}
+}
